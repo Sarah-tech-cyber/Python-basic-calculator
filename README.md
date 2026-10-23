@@ -7,6 +7,8 @@ Features
 
 * Performs basic arithmetic calculations.
 * Accepts two numbers from the user.
+
+Operations 
 * Addition (+)
 * Subtraction (-)
 * Multiplication (*)

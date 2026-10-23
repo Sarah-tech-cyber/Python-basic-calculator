@@ -7,6 +7,20 @@ Features
 
 * Performs basic arithmetic calculations.
 * Accepts two numbers from the user.
+* Addition (+)
+* Subtraction (-)
+* Multiplication (*)
+* Division (/)
+* Modulo (%)
+* Checks for division by zero.
+
+How to Run
+
+Run calculator.py using Python.
+
+Project Purpose
+
+This project was created to practise Python programming, conditional statements, user input, and basic arithmetic operations.
 
 How to Run
 
